@@ -1,0 +1,2 @@
+# Detect-Capittal
+LEETCODE QUESTION
